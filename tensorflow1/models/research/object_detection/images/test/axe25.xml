@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>axe25.jpg</filename>
+	<path>E:\tensorflow1\models\research\object_detection\images\test\axe25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>31</ymin>
+			<xmax>232</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

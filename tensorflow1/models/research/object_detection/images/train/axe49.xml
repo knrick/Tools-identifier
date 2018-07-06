@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>axe49.jpg</filename>
+	<path>E:\tensorflow1\models\research\object_detection\images\train\axe49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>24</ymin>
+			<xmax>192</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

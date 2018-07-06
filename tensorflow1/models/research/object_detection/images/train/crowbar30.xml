@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>crowbar30.jpg</filename>
+	<path>E:\tensorflow1\models\research\object_detection\images\train\crowbar30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>218</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crowbar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>50</ymin>
+			<xmax>240</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

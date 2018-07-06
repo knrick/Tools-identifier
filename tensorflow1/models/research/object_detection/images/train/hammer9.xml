@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hammer9.jpg</filename>
+	<path>E:\tensorflow1\models\research\object_detection\images\train\hammer9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>4</ymin>
+			<xmax>169</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

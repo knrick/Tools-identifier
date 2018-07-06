@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>crowbar14.jpg</filename>
+	<path>E:\tensorflow1\models\research\object_detection\images\test\crowbar14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>117</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crowbar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>86</ymin>
+			<xmax>36</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

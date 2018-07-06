@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>hammer59.jpg</filename>
+	<path>E:\tensorflow1\models\research\object_detection\images\test\hammer59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>209</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>30</ymin>
+			<xmax>266</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>
