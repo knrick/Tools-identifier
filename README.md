@@ -1,6 +1,6 @@
 # Tools-identifier
 
-### This classifier is based on this repo:
+## This classifier is based on this repo:
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 ## Guide on using the finished model
