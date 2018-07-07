@@ -8,6 +8,8 @@ https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Trai
 Anaconda with Python 3.6
 
 ### Setup
+Open Anaconda Command Prompt and type these commands:
+
 conda create -n tensorflow1 pip python=3.5
 
 activate tensorflow1
