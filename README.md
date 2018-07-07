@@ -8,7 +8,7 @@ https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Trai
 Anaconda with Python 3.6
 
 ### Setup
-### I used tensorflow1 as the name for the virtual envionment.
+#### I used tensorflow1 as the name for the virtual envionment.
 #### Open Anaconda Command Prompt and type these commands:
 
 conda create -n tensorflow1 pip python=3.5
