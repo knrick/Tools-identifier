@@ -9,11 +9,17 @@ Anaconda with Python 3.6
 
 ### Setup
 conda create -n tensorflow1 pip python=3.5
+
 activate tensorflow1
+
 (tensorflow1)  pip install opencv
+
 (tensorflow1)  pip install numpy
+
 (tensorflow1)  pip install tensorflow
+
 (tensorflow1)  pip install jupyter
+
 (tensorflow1)  pip install matplotlib
 
 I might missed some packages however it won't be hard to identify and install them.
